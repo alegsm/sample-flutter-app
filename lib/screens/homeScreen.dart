@@ -184,7 +184,7 @@ class HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
           ),
           Container(
             margin: EdgeInsets.only(top: 10.0),
-            child: Text('AppFolio',
+            child: Text('App Portfolio',
                 style: TextStyle(
                     fontSize: 40.0,
                     color: Colors.white,
